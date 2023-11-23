@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sicupath&icon=6&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=sicupath&icon=6&color=0)(https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
